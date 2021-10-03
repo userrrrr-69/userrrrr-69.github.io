@@ -1,0 +1,61 @@
+a:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:active {
+    color: #84ff94;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+
+.nawigacja {
+    text-align: left;
+    font-family: Verdana;
+    background-color: #149625;
+    padding-left: 20px;
+    padding: 20px;
+    margin: 20px;
+}
+.programy {
+    padding-left: 70px;
+    vertical-align: 10px;
+}
+
+.galeria{
+    padding-left: 70px;
+    vertical-align: 10px;
+}
+
+.home_ico {
+    width: 50px;
+    height: 50px;
+}
+
+body {
+    background-color: #2fc944;
+}
+.programy_tab {
+    width: 1000px;
+    height: 500px;
+}
+
+.tab_nagl {
+    font-size: 50px;
+    font-family: Verdana;
+    color: #99d1a1;
+}
